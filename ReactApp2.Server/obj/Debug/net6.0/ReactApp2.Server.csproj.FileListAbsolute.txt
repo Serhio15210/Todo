@@ -1,0 +1,8 @@
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\ReactApp2.Server.csproj.AssemblyReference.cache
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\spa.proxy.json
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\ReactApp2.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\ReactApp2.Server.AssemblyInfoInputs.cache
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\ReactApp2.Server.AssemblyInfo.cs
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\ReactApp2.Server.csproj.CoreCompileInputs.cache
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\ReactApp2.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net6.0\ReactApp2.Server.MvcApplicationPartsAssemblyInfo.cache
