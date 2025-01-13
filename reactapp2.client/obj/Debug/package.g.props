@@ -19,6 +19,7 @@
     <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">^18.3.1</PackageJsonDependenciesReact>
     <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">^18.3.1</PackageJsonDependenciesReactDom>
     <PackageJsonDependenciesReactModal Condition="$(PackageJsonDependenciesReactModal) == ''">^3.16.3</PackageJsonDependenciesReactModal>
+    <PackageJsonDependenciesSass Condition="$(PackageJsonDependenciesSass) == ''">^1.83.1</PackageJsonDependenciesSass>
     <PackageJsonDevdependenciesEslintJs Condition="$(PackageJsonDevdependenciesEslintJs) == ''">^9.17.0</PackageJsonDevdependenciesEslintJs>
     <PackageJsonDevdependenciesTanstackEslintPluginQuery Condition="$(PackageJsonDevdependenciesTanstackEslintPluginQuery) == ''">^5.62.16</PackageJsonDevdependenciesTanstackEslintPluginQuery>
     <PackageJsonDevdependenciesTypesNode Condition="$(PackageJsonDevdependenciesTypesNode) == ''">^22.10.5</PackageJsonDevdependenciesTypesNode>

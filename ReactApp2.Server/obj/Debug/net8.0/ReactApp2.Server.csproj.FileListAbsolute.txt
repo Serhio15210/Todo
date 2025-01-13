@@ -36,3 +36,4 @@ C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\refint\R
 C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.pdb
 C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.genruntimeconfig.cache
 C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ref\ReactApp2.Server.dll
+C:\Users\maliv\source\repos\ReactApp2\ReactApp2.Server\obj\Debug\net8.0\ReactApp2.Server.sourcelink.json

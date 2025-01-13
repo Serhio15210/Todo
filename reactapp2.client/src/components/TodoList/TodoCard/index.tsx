@@ -1,5 +1,5 @@
 ﻿import { Todo } from "@/api/types.ts";
-import "@/App.css";
+import "@/styles/App.scss";
 import Button from "@mui/material/Button";
 import dayjs from "dayjs";
 import { useUpdateTodoMutation } from "@/api/todos/queries.ts";

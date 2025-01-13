@@ -1,4 +1,4 @@
-import "./App.css";
+import "@/styles/App.scss";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { queryClient } from "./api/queryClient.ts";
 import Todos from "./components/Todos";

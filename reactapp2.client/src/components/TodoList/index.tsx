@@ -1,5 +1,5 @@
 ﻿import { Todo } from "@/api/types";
-import "@/App.css";
+import "@/styles/App.scss";
 import TodoCard from "@/components/TodoList/TodoCard";
 import { useState } from "react";
 import EditTodoModal from "@/components/modals/EditTodoModal";
